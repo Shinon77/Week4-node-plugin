@@ -35,7 +35,8 @@ Proyek ini memiliki tiga skrip berbeda yang bisa dijalankan. Gunakan perintah be
 
 ## 3. Screenshot of the Output (Screenshot Hasil Output)
 ### a. Berikut adalah contoh hasil output dari salah satu skrip (indexCow.js):
-
+![gambar sapi](image.png)
 ### b. Berikut adalah contoh hasil output dari salah satu skrip (indexDragon.js);
-
+![gambar naga](image-1.png)
 ### c. Berikut adalah contoh hasil output dari salah satu skrip (indexGhostBusters.js);
+![gambar paranormal](image-2.png)
